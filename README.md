@@ -28,9 +28,4 @@
 ※学ぶ順序は他のPython I の講義と同様に以下の書籍に準じて作成します
 
 [教科書「Python3入門ノート」（大重美幸、ソーテック社 、19/08/31) ](https://www.amazon.co.jp/dp/4800711673/) <br>
-[サンプルコードはココ](http://www.sotechsha.co.jp/sp/1167/)
-<div align="center">
-<img src="./etc/image/python3_intro_large.jpg" alt="Python3入門ノート" title="Python3入門ノート" width=240>
-</div>
-
 <br>
