@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "24_programing1"
+version = "1.0.0"
+license = "CC Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+authors = [{ name = "Yasuharu Suzuki"}]
+readme = "README.md"
+requires-python = "=3.11.*"
+
+[virtualenvs]
+in-project = true
