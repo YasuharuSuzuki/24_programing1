@@ -23,3 +23,8 @@ __pycache__/
 # Poetry / venv
 .venv/
 poetry.lock
+
+# 解答配信設定
+# *(解答).ipynb
+# *(解答).py
+# *検証用
