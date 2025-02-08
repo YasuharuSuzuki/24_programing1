@@ -1,0 +1,5 @@
+score = list(map(int, input().split()))
+score.sort(reverse=True)
+print(score[0])
+print(score[1])
+print(score[2])

@@ -1,0 +1,6 @@
+a = map(int, input(). split())
+a = list(a)
+a = sorted(a, reverse=True)
+print(a[0])
+print(a[1])
+print(a[2])
